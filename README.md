@@ -1,5 +1,5 @@
 # VINS-AR
-Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
+## Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
 
 (to be released after paper acceptance)
 
