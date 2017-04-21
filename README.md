@@ -5,8 +5,6 @@
 
 VINS-AR is a real-time visual-inertial-based augmentged reality system. This code implements an initilization-free **monocular** sliding window based **visual-inertial-loop** odometry, which is running on IOS devices in real time. 
 
-For ros version, please check out to [M-VINS](https://github.com/qintony/M-VINS).
-
 
 **1. Drift elimination and robustness test screenshots:**
 
