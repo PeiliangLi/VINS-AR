@@ -1,7 +1,7 @@
 # VINS-AR
 ## Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
 
-(to be released after paper acceptance)
+(Please checkout to our new repo: https://github.com/HKUST-Aerial-Robotics/VINS-Mobile)
 
 VINS-AR is a real-time visual-inertial-based augmentged reality system. This code implements an initilization-free **monocular** sliding window based **visual-inertial-loop** odometry, which is running on IOS devices in real time. 
 
